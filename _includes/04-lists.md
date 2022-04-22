@@ -1,3 +1,8 @@
-1. :tada:
-2. :sparkles:
-3. :tada:
+😄
+✨
+🎉
+
+
+1. Python
+2. JavaScript
+3. C++
